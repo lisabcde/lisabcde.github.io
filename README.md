@@ -11,7 +11,13 @@
  
  看電影
  
- 
+ ```c
+ #include <stduo.h>
+ int main()
+ {
+  printf("hello world");
+ }
+ ```
  ## 圖
  
  
